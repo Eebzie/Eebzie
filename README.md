@@ -1,8 +1,15 @@
 ### Hullo 🤩
+
+My name is Gabby and I am in my final year of Biomedical Engineering! I don't know what I'm doing with my life right now, but I am having fun coding, so look forward to seeing more projects from me! :-)
+
+- 🔭 I’m currently working on: my [website](gabbyagustin.me) and my [engineering capstone project](https://github.com/Eebzie/wireless-prosthetic-arm)
+
 <!--
 **Eebzie/Eebzie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
