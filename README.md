@@ -1,6 +1,6 @@
 ### Hullo 🤩
 
-My name is Gabby and I am in my final year of Biomedical Engineering! I don't know what I'm doing with my life right now, but I am having fun coding, so look forward to seeing more projects from me! :-)
+My name is Gabby and this year I completed my Bachelor of Biomedical Engineering! I don't know what I'm doing with my life right now, but I am having fun coding, so look forward to seeing more projects from me! :-)
 
 - 🔭 I’m currently working on my [personal website](https://gabbyagustin.me) and my [engineering capstone project](https://github.com/Eebzie/wireless-prosthetic-arm)
 
